@@ -1,0 +1,18 @@
+Well hello, let me introduce myself.
+My name is I Made Ari Kharismananda Jagatkirana, but everybody call me JK.
+
+I am a web developer since March 2020.
+I am using several programming language and their framework, that is:
+
+langAndFrameworks = {
+    "C++": "I am on learning phase on this, and never stop learning to other lang.",
+    "Python": "Django",
+    "Javascript": "Node.js",
+    "PHP": "Laravel",
+    }
+ 
+I am a developer at Asah Journal company. Mostly using Node.js for simple development.
+I don't know about the benefit of github before, but from now i will push my project to my reps,
+for public to learn, i love to sharing my knowledge as long as the can give benefit to the other.
+
+Peace :D.
